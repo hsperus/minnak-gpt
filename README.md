@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/transformer_architecture.png" alt="Transformer Architecture" width="400"/>
+  <img src="assets/transformer_architecture.png" alt="Transformer Architecture" width="500"/>
 </p>
 
 <h1 align="center">minnak-gpt</h1>
@@ -51,7 +51,7 @@ This project is designed for **educational purposes**, providing a clear, readab
 ## Architecture
 
 <p align="center">
-  <img src="assets/multi_head_attention.png" alt="Multi-Head Attention" width="600"/>
+  <img src="assets/multi_head_attention.png" alt="Multi-Head Attention" width="350"/>
 </p>
 
 The Transformer architecture revolutionized NLP by replacing recurrence with self-attention:
@@ -100,7 +100,7 @@ minnak-gpt/
 ├── scripts/                    # Training and inference scripts
 ├── tests/                      # Unit tests
 ├── LICENSE                     # MIT License
-└── requirements.txt            # Dependencies (just NumPy!)
+└── requirements.txt            # Dependencies (just NumPy!) xdd
 ```
 
 ---
